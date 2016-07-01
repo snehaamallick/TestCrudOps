@@ -1,0 +1,6 @@
+com\niit\testcrudops\PersonController.class
+com\niit\testcrudops\dao\PersonDAOImpl.class
+com\niit\testcrudops\service\PersonServiceImpl.class
+com\niit\testcrudops\service\PersonService.class
+com\niit\testcrudops\model\Person.class
+com\niit\testcrudops\dao\PersonDAO.class
